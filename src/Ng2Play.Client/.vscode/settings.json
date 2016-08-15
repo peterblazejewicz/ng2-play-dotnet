@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/tmp": true,
+    "**/project.lock.json": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/dist": true,
+    "**/typings": true
+  }
+}
